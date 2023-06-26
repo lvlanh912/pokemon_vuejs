@@ -1,5 +1,5 @@
 <template>
-  <Card :_height="120" :_width="90" />
+  <Card :_height="120" :_width="90" :_image="4"/>
 </template>
 
 <script>
